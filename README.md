@@ -1,5 +1,5 @@
 # CS_Cat_HTML_Portfolio
 
-#Project description
+# Project description
 
 ## Loom Video Link:
